@@ -1,6 +1,6 @@
 # CelebA DCGANN
 
-Train a **Deep Convolutional Generative Adversarial Network (DCGAN)** on the **Celebrity Attributes (CelebA) Dataset** in **Python** using the **PyTorch** environment.
+Train a **Deep Convolutional Generative Adversarial Network (DCGANN)** on the **Celebrity Attributes (CelebA) Dataset** in **Python** using the **PyTorch** environment.
 
 ## Results
 
